@@ -1,0 +1,8 @@
+{
+  "name": "ZenQuest by Verblis",
+  "description": "The ultimate narrative wellness experience. Powered by Verblis storytelling and Gemini AI intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

@@ -1,0 +1,24 @@
+
+{
+  "name": "ZenQuest by Verblis",
+  "short_name": "ZenQuest",
+  "description": "The ultimate narrative wellness experience. Powered by Verblis storytelling and Gemini AI intelligence.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F8F4FF",
+  "theme_color": "#5E4268",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
